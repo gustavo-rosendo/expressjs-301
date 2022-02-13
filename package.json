@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-301",
+  "version": "1.0.0",
+  "description": "Simple sample using ExpressJS and going deeper in the usage of req and res objects, the router and the express generator",
+  "main": "loginSite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-rosendo/expressjs-301.git"
+  },
+  "author": "Gustavo M. R. dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-rosendo/expressjs-301/issues"
+  },
+  "homepage": "https://github.com/gustavo-rosendo/expressjs-301#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "helmet": "^5.0.2"
+  }
+}
